@@ -42,9 +42,9 @@ For each workload, I’ll report total cycles, instructions issued, idle cycles,
 
 ## Planned folders
 
-- `rtl/` — scheduler and policy logic
-- `tb/` — testbench and correctness checks
-- `workloads/` — per-warp instruction sequences
-- `fpga/` — Cora Z7 design, counters, and constraints
-- `sw/` — Arm program that starts runs and reads results
-- `results/` — measurements, waveforms, and Vivado reports
+- `rtl/` - scheduler and policy logic
+- `tb/` - testbench and correctness checks
+- `workloads/` - per-warp instruction sequences
+- `fpga/` - Cora Z7 design, counters, and constraints
+- `sw/` - Arm program that starts runs and reads results
+- `results/` - measurements, waveforms, and Vivado reports
